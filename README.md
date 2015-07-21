@@ -1,0 +1,1 @@
+Base image from which all other images in our infrastructure descend. Ubuntu because there is just not enough package support in repos for Debian.
